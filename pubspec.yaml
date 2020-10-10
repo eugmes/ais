@@ -2,7 +2,7 @@ name: ais
 description: Decode AIS messages
 version: 0.0.7
 author:
-homepage: https://github.com/jamesdalby/ais
+homepage: https://github.com/eugmes/ais
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
